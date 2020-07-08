@@ -12810,14 +12810,14 @@ footer #footer .social-media .fa:hover {
 @media(min-width:768px) {
 	#why-us {
 		padding: 60px 0;
-		background: url("../images/mobile-strapline2.svg") no-repeat 50%;
+		background: url("../../../../../../images/cartoonbeach.png") no-repeat 50%;
 		background-size: cover
 	}
 }
 
 @media(min-width:992px) {
 	#why-us {
-		background: url("../images/full-strapline2.svg") no-repeat 50%;
+		background: url("../../../../../../images/cartoonbeach.png") no-repeat 50%;
 		background-size: cover;
 		padding: 235px 0 60px;
 		margin-top: -245px
