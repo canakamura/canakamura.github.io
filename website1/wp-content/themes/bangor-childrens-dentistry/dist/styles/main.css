@@ -12647,7 +12647,7 @@ footer #footer .services-nav .nav li {
 }
 
 footer #footer .services-nav .nav li a {
-	color: #fff;
+	color: #000;
 	font-size: 14px;
 	padding: 0;
 	line-height: 26px
@@ -12665,7 +12665,7 @@ footer #footer .services-nav .nav li a:hover {
 }
 
 footer #footer .office-nav li a {
-	color: #fff;
+	color: #000;
 	font-size: 14px;
 	padding: 0;
 	line-height: 26px
@@ -12690,7 +12690,7 @@ footer #footer .social-media .fa {
 	font-size: 24px;
 	transition: all .3s;
 	margin-right: 5px;
-	color: #fff
+	color: #000
 }
 
 footer #footer .social-media .fa:focus,
