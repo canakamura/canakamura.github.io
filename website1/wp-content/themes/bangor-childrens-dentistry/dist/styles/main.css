@@ -12723,7 +12723,7 @@ footer #footer .social-media .fa:hover {
 	}
 }
 
-.hero {
+<!--.hero {
 	background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("./../../../../images/Crab.png") no-repeat 66%;
   background-size: cover;
   background-color: yellowgreen;
@@ -12755,7 +12755,7 @@ footer #footer .social-media .fa:hover {
 	color: #fff;
 	font-size: 28px;
 	margin-top: 0;
-	margin-bottom: 30px
+	margin-bottom: 30px-->
 }
 
 @media(min-width:480px) {
