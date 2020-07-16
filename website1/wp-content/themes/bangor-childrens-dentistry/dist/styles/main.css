@@ -11710,14 +11710,14 @@ h3 {
 }
 
 .dentist-1 .dentist-img {
-	background: url("../../../../../../images/chris1.jpg") no-repeat 50%;
+	background: url("../../../../../../images/chris1.jpg") no-repeat 50% -10px;
 	background-size: cover;
 	transition: background-image .4s ease-in-out
 }
 
 .dentist-1 .dentist-img:focus,
 .dentist-1 .dentist-img:hover {
-	background: url("../../../../../../images/chris2.jpg") no-repeat 50%;
+	background: url("../../../../../../images/chris2.jpg") no-repeat 50% -10px;
 	background-size: cover
 }
 
