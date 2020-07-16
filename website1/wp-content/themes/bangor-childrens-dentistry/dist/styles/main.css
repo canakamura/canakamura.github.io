@@ -12735,7 +12735,7 @@ footer #footer .social-media .fa:hover {
 @media(min-width:768px) {
 	.hero {
 		padding: 10vh 0;
-		background: url("./../../../../images/Crab.png") no-repeat 50%;
+		background: url("../../../../../images/Crab.png") no-repeat 50%;
     background-size: auto;
     background-color: yellowgreen;
 		color: #000
