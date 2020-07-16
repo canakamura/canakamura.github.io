@@ -12724,7 +12724,7 @@ footer #footer .social-media .fa:hover {
 }
 
 .hero {
-	background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("../images/bcd-hero2.jpg") no-repeat 66%;
+	background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("./../../../../images/Crab.png") no-repeat 66%;
   background-size: cover;
   background-color: yellowgreen;
 	padding: 8vh 0;
@@ -12735,7 +12735,7 @@ footer #footer .social-media .fa:hover {
 @media(min-width:768px) {
 	.hero {
 		padding: 10vh 0;
-		background: url("../images/bcd-hero2.jpg") no-repeat 50%;
+		background: url("./../../../../images/Crab.png") no-repeat 50%;
     background-size: auto;
     background-color: yellowgreen;
 		color: #000
