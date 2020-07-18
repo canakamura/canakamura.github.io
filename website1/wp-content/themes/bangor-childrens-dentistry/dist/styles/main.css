@@ -12807,7 +12807,7 @@ footer #footer .social-media .fa:hover {
 	margin-top: -1px
 }
 
-@media(min-width:768px) {
+@media(min-width:20px) {
 	#why-us {
 		padding: 60px 0;
 		background: url("../../../../../../images/Sandy beach.png") no-repeat 50%;
