@@ -12341,6 +12341,7 @@ header.banner .navbar-logo {
 header.banner .navbar-logo img {
 	float: left;
 	margin: 10px 0 17px
+	padding: 10px
 }
 
 @media(min-width:992px) {
