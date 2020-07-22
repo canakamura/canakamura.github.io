@@ -12343,6 +12343,7 @@ header.banner .navbar-logo img {
 	float: left;
 	margin: 10px 0 17px;
 	padding: 10px;
+	margin-left: 74px;
 }
 
 @media(min-width:992px) {
