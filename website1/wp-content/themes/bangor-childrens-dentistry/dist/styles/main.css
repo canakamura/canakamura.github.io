@@ -4613,7 +4613,7 @@ h6 {
 }
 
 p {
-	margin: -4px 0 20px
+	margin: -4px 0 10px
 }
 
 .lead {
@@ -5094,10 +5094,9 @@ pre code {
 .col-xs-11,
 .col-xs-12 {
 	position: relative;
-	min-height: 25px;
+	min-height: 1px;
 	padding-left: 15px;
 	padding-right: 15px
-	padding: 10px
 }
 
 .col-xs-1,
@@ -5539,7 +5538,6 @@ pre code {
 	}
 	.col-md-12 {
 		width: 100%
-		padding: 10px
 	}
 	.col-md-pull-0 {
 		right: auto
