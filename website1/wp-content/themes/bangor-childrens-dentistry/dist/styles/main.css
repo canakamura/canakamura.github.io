@@ -5094,7 +5094,7 @@ pre code {
 .col-xs-11,
 .col-xs-12 {
 	position: relative;
-	min-height: 1px;
+	min-height: 25px;
 	padding-left: 15px;
 	padding-right: 15px
 }
