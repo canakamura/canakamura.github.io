@@ -13424,7 +13424,7 @@ article.post {
 	margin-bottom: 30px;
 	color: #fff;
 	text-align: center;
-	background: rgba(116, 206, 228, .3)
+	background: rgba(116, 206, 228, 0)
 }
 
 @media(min-width:768px) {
