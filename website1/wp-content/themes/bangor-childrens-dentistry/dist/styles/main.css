@@ -12892,14 +12892,14 @@ footer #footer .social-media .fa:hover {
 
 @media(min-width:992px) {
 	#why-us .content h3 {
-		margin: 30px 0;
+		margin: 15px 0;
 		font-size: 24px
 	}
 }
 
 #why-us .content p {
 	max-width: 360px;
-	margin: 0 auto 40px
+	margin: 0 auto 15px
 }
 
 #why-us .feat-img {
