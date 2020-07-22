@@ -13422,7 +13422,7 @@ article.post {
 	background-color: #fff;
 	padding: 0 15px 15px;
 	margin-bottom: 30px;
-	color: #262626;
+	color: #fff;
 	text-align: center;
 	background: rgba(116, 206, 228, .3)
 }
@@ -13485,7 +13485,7 @@ article.post .blog-img>.content {
 }
 
 article.post a {
-	color: #262626
+	color: #fff
 }
 
 article.post .entry-summary a:last-of-type {
