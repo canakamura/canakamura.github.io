@@ -12487,6 +12487,7 @@ header.banner .sideNav .nav li a {
 footer {
 	background: url("../images/footer1.svg") no-repeat 50%;
 	background-size: cover
+	margin-right:-20px;
 }
 
 footer #testimonials {
